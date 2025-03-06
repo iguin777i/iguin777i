@@ -23,8 +23,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  ##
-
+  
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
 [![My Skills](https://skillicons.dev/icons?i=ts,nextjs,prisma,postgres,react,tailwind)](https://skillicons.dev)
