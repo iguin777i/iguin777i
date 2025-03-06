@@ -26,7 +26,7 @@
   
 <!--- # "Verify icons availability here https://github.com/tandpfun/skill-icons" -->
 
-[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,prisma,postgres,react,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,nextjs,prisma,postgres,react,tailwind,figma,css,html,js,python,photoshop,unreal,blender,notion,wordpress)](https://skillicons.dev)
 </div>
 <br>
 <div> 
